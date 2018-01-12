@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_2606970789c808c9456b8baf12a203813120acd9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nurfedrik\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_9134f66617beb070a93204f645451fd8216b80d2.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_3b1fb2ca97f8e2337233c3f249aef11640464381.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\libs\GenAsync.1.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6b4cdf77310a598314fd99f563780b3480bbf5d1">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\GenAsync.1.2_6239fc98616ac50e0cb5964fd37db0732efa837c.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\libs\KGJsonConverter.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cea743dc2e193922f7e7dc34858ef15b00afc6db">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\KGJsonConverter_7984a6c77fa27febd65e3ef48a683fc1e5082e8f.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="75d15557ff7531e59b01362d46bb06dd59c5f971">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\pl.droidsonroids.gif-android-gif-drawable-1.2.3_de1db28164b2f0b24742d57ccda436f11b125d2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nurfedrik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_63796bc0289469208919b18e044ae4a444078bc0.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_99648ed256833b390eec666b949f5703eb22c199.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nurfedrik\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_74858c87bb6b558df89ac181417aba23aff03302.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.github.amigold.fundapter\library\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="12e67307b10da7aad1bd09af41f281a2fed08d96">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\com.github.amigold.fundapter-library-1.0_7cf998e65734b282893b159cf155111d9857781d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Nurfedrik\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_09f83f6e42749d48b706ed716d0295280a1f169c.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\gson-2.2.4_49828cd9b6e8a89635e5a735ec7f155cc5c04270.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_2a28110f46ef5a441d56852ae1e2497cb3d71368.jar" />
+    </item>
+    <item
+        jar="D:\RPL JADI\The-Circle\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\RPL JADI\The-Circle\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_acca3891e6333f704e9e2f81c3e17e93b2d63304.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main2.xml",
+        "source": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    },
+    {
+        "merged": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\build\\intermediates\\res\\merged\\release\\menu\\list_context_menu.xml",
+        "source": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\src\\main\\res\\menu\\list_context_menu.xml"
+    },
+    {
+        "merged": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\build\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "D:\\RPL JADI\\AndroidPHPMySQL3\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]
